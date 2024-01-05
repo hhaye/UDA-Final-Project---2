@@ -21,6 +21,7 @@ The code is written in python. The dependencies are:
 * nltk
 * spacy
 * wordcloud
+* gensim
 
 Analyses are run on a laptop with 8 CPU cores. Total runtime takes approximately an hour or less.
 
