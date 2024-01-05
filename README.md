@@ -31,4 +31,8 @@ Analyses are run on a laptop with 8 CPU cores. Total runtime takes approximately
 - Topic Modeling
 - Named Entity Recognition & Network Analysis
 
+  ## References
+
+Kibe, Kevin (Feb 2023). Topic Modeling Using Latent Dirichlet Allocation (LDA). Available from: https://www.analyticsvidhya.com/blog/2023/02/topic-modeling-using-latent-dirichlet-allocation-lda/
+
 "# UDA-Final-Project" 
