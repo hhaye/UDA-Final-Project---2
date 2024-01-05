@@ -6,7 +6,7 @@ Contains:
 - CNN news dataset 
 - Jupyter notebook
 
-The dataset contains about 380000 news articles from CNN news media from 2011 to 2022. It is a publicly available dataset on Kaggle [https://www.kaggle.com/datasets/hadasu92/cnn-articles-after-basic-cleaning/data].
+The dataset contains about 380000 news articles from CNN news media from 2011 to 2022. Dataset uploaded on github is a subset of the full dataset. It is a publicly available dataset on Kaggle so please refer to the link for complete dataset. [https://www.kaggle.com/datasets/hadasu92/cnn-articles-after-basic-cleaning/data].
 
 ## Dependencies
 
